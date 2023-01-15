@@ -1,0 +1,41 @@
+/* Tag */
+body
+{
+    background-color: #393e46;
+    color: #4ECCA3;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 8rem;
+    font-family: 'Lobster',cursive;
+}
+
+footer
+{
+    margin: 130px 46% 0;
+    color: #EEEEEE;
+    font-family: 'Indie Flower',cursive;
+}
+
+/* Class */
+.playerOne
+{
+    display: inline-block;
+    margin-left: 32%;
+    font-size: 2rem;
+    font-family: 'Indie Flower',cursive;
+    text-align: center;
+}
+
+.playerTwo
+{
+    display: inline-block;
+    font-size: 2rem;
+    font-family: 'Indie Flower',cursive;
+    text-align: center;
+    margin-left: 25px;
+}
+
+
